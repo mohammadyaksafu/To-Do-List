@@ -95,7 +95,7 @@ ul li.checked{
 
 ul li.checked::before{
     background-image: url("./asset/checked.png");
-<<<<<<< HEAD
+
 }
 
 ul li span{
@@ -114,6 +114,4 @@ ul li span{
 
 ul li span:hover{
    background: #edeef0; 
-=======
->>>>>>> 4689132330926903e1bf7b43d4fc4005c9477727
 }
